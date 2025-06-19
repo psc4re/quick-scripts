@@ -191,4 +191,5 @@ while (1) {
 
 close($sock);
 exit ($rv);
+# All Rights Reserved
 
